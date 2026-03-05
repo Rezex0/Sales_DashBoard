@@ -47,3 +47,6 @@ Enabled quick, data-driven decision-making
 Strengthened practical data analysis skills
 
 
+<img width="1646" height="694" alt="Screenshot 2026-03-05 191220" src="https://github.com/user-attachments/assets/a76ab691-09c6-4038-b572-4969e7856e17" />
+
+
